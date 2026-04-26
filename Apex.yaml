@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,stryder.respawn.com
+  - AND,((DOMAIN-KEYWORD,qos),(DOMAIN-KEYWORD,nlb),(DOMAIN-KEYWORD,elb),(DOMAIN-KEYWORD,amazonaws.com))
